@@ -1,5 +1,5 @@
 # 🧠 Customer Churn Prediction using Voting Classifier (ML Project)
-On **Customer Churn Prediction** project — where I tackle the challenge of identifying customers likely to leave a service using machine learning techniques.
+On **Customer Churn Prediction** project — I tackle the challenge of identifying customers likely to leave a service using machine learning techniques.
 
 This project includes **exploratory data analysis**, **feature engineering**, **statistical testing**, **model training**, and an **ensemble learning approach** using Voting Classifier.
 
